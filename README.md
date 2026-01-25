@@ -51,10 +51,6 @@ Here is a view of the top and bottom of the case:
 
 ![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTAyOTQsInB1ciI6ImJsb2JfaWQifX0=--a5f09185a44380b633d99bc31173a792134c591b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/image.png)
 
-## There is the final video of how it works!
-
-_Here is a youtube video where you can see how it works:_ [Link]()
-
 ## Bill of Materials (BOM)
 
 | Item            | Quantity | Link |
@@ -68,4 +64,8 @@ _Here is a youtube video where you can see how it works:_ [Link]()
 | Neopixel ring   | 1        | [AliExpress](https://www.aliexpress.com/item/1005008125328620.html) |
 | OLED display    | 1        | [AliExpress](https://www.aliexpress.com/item/32896971385.html) |
 | Stepper motor   | 1        | [AliExpress](https://www.aliexpress.com/item/1005007004416294.html) |
+
+## There is the final video of how it works!
+
+_Here is a youtube video where you can see how it works:_ [Link](https://youtu.be/nypfZz_uRD4)
 
