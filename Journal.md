@@ -4,7 +4,7 @@
 
 ## 1/20/2026 10 PM - The birth of my idea!  
 
-_Time spent: 1.2h_  
+_Time spent: 0.5h_  
 
 I've been **thinking** for a long time about what I could create with **ESP32**. 
 I came up with a project with a **motor** that can be controlled via the web and I **started** working on it! First I took out all the **components** that were needed for the project and started thinking again about how I would connect it...![20260120_182717](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY5NTMsInB1ciI6ImJsb2JfaWQifX0=--f2457a21e8a58e021569101137fe80fe14cff82d/20260120_182717.jpg)
@@ -21,23 +21,16 @@ I took a **soldering iron** and started... at first it kept falling out, but the
 
 ## 1/20/2026 11:17 PM - Cable preparation  
 
-_Time spent: 1.1h_  
+_Time spent: 0.9h_  
 
 When I had finished **soldering**, I moved straight to **connecting** the cable to the components. I thought it would be easy, but it wasn't... 
 At first I had to look for **cables** that I could use at all, because they were either the **wrong format** or too short. When I had it, another **problem** appeared - the cable for the **neopixel ring** was too short, so I had to take more jumpers and connect it to it, and to keep it from **falling**, I took **electrical tape** and wrapped it...
 ![20260120_200248(1)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY5NTksInB1ciI6ImJsb2JfaWQifX0=--844da1bdf4e98d35bca2e5616b5744c81dad2883/20260120_200248(1).jpg)
   
 
-## 1/20/2026 11:30 PM - Connecting components to a breadboard   
-
-_Time spent: 0.8h_  
-
-I really liked these little breadboards because they **fit** easily into even the smallest **3D case** and most importantly they are **super cheap**! But when I had the cable preparation done, I started connecting the cables to the breadboard and to the **ESP32**. I failed a few times, but I managed it so I'm **one step further**...![20260120_201938](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY5NjEsInB1ciI6ImJsb2JfaWQifX0=--4d103e720121819d64d3861fa6f1c2716355e4c7/20260120_201938.jpg)
-  
-
 ## 1/20/2026 11:40 PM - Measurement of all components!  
 
-_Time spent: 1.0h_  
+_Time spent: 0.5h_  
 
 Before I even started **modeling**, I had to measure all the important parts. I started measuring mainly the **motor** so I could make a **housing** for it and **also** so it wouldn't move all the time. 
 Once I had that, I continued with the **OLED**, the **buttons**, but I didn't forget the **USB-C connector** that will power everything!
@@ -46,7 +39,7 @@ Once I had that, I continued with the **OLED**, the **buttons**, but I didn't fo
 
 ## 1/21/2026 9:51 AM - Beginning of modeling  
 
-_Time spent: 1.4h_  
+_Time spent: 1.0h_  
 
 After measuring all the parts, I moved to **TinkerCad**, where I started thinking about how to make a big case to fit everything in... I tried different sizes, but they were too **small**, so I chose **120x120mmm** and that **should** **be** enough.
 Then I thought about how I could take my project **further**, so I made a **groove** for the turntable and started making holes in the **lower** **case**.
@@ -55,7 +48,7 @@ Then I thought about how I could take my project **further**, so I made a **groo
 
 ## 1/21/2026 9:59 AM - Making better holes  
 
-_Time spent: 0.9h_  
+_Time spent: 0.5h_  
 
 From my previous projects I have **learned** that it is always better to **spend** **a little more time** on making **holes** than to get _angry_ and do it again.
 So I measured the **OLED** and touch button again, which were **important**, and started making better holes for them and I think I did it and **hopefully** it will fit in them!
@@ -67,7 +60,7 @@ After the **holes** for the components, I also worked on the **motor** **mount**
 
 ## 1/21/2026 10:24 AM - Case improvements  
 
-_Time spent: 1.7h_  
+_Time spent: 1.0h_  
 
 After everything I started **thinking** about where to place the neopixel ring and I thought about making a raised **area** for it and having it in the air above the **rotating** **platform**.
 I prepared things for this in the program and started modeling. I had it about **2cm** thick before and then I made the **walls** **smaller** so that I didn't have to use so much **plastic** and that's just enough!
@@ -80,7 +73,7 @@ I measured the **motor** and started modeling the hole for the **rotating pin**,
 
 ## 1/21/2026 10:46 AM - Lower 3D case finished  
 
-_Time spent: 1.5h_  
+_Time spent: 1.0h_  
 
 After a few hours, the lower case is **finished** and now we can move on to the **upper part**, which will hold the neopixel ring.
 I came up with a **mobile system** where you can adjust where you want to put the **ring** and then just secure it with a **safety pin** that sticks to the ring!
@@ -94,7 +87,7 @@ I also made a **stopper** that will stick to the hand after I put on the **neopi
 
 ## 1/21/2026 11:45 AM - Printing time!!  
 
-_Time spent: 0.9h_  
+_Time spent: 0.5h_  
 
 I had to print all the **parts**, so I got everything ready in **BambuLab** **studio** and started editing all the **files**... Once I had it, I had it **printed** and it came out great!
 ![1000024078](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODcyNzgsInB1ciI6ImJsb2JfaWQifX0=--92b8d744d9e6dc1744bf5dc0427e8acc9d82bc89/1000024078.jpg)
@@ -136,7 +129,7 @@ I tried it and it really worked, I was **surprised**.
 
 ## 1/21/2026 6:36 PM - Putting things in the case  
 
-_Time spent: 1.8h_  
+_Time spent: 0.7h_  
 
 After **modifying** the case (and solving my big problem) I put all the things in the case, but I didn't **think** it would be that hard... At first I had to think about how to put the **breadboards** in there and how to arrange the cables, but I managed it only after **several** **attempts**, because my cables kept falling out and **running** **off** the table :(
 When I managed to do that, I had to deal with one more thing, getting the **cable** for the ring up, but I managed that **too** (_it took me a while, but it was good_).
@@ -163,7 +156,7 @@ So I went back to TinkerCad and using the previous hole model I made it **pretty
 
 ## 1/21/2026 7:58 PM - The 3D case is finished after a long time   
 
-_Time spent: 0.9h_  
+_Time spent: 0.8h_  
 
 I can announce that I managed to finish the **3D** **case** and put everything together.
 I had a lot of **problems** getting it done at all, but on the other hand I'm happy with how it **turned** **out**. **Everything** fits together beautifully, I also **modeled** the parts well and now we can move on to **coding**!!!
@@ -172,7 +165,7 @@ I had a lot of **problems** getting it done at all, but on the other hand I'm ha
 
 ## 1/21/2026 9:17 PM - Component testing  
 
-_Time spent: 1.1h_  
+_Time spent: 0.8h_  
 
 First I thought about how I would make the **logic** of the system itself, I came up with the **idea** that the **buttons** could change various functions or even turn the **motor**! 
 But before that I had to test **everything** to see if it worked, so that I wouldn't have to **find** **out** at the end that it didn't work! So I started with all the **things** and it turned out that everything **worked** fine, which **I'm happy about** :)
@@ -181,7 +174,7 @@ But before that I had to test **everything** to see if it worked, so that I woul
 
 ## 1/21/2026 9:22 PM - ESP32 code  
 
-_Time spent: 1.8h_  
+_Time spent: 1.3h_  
 
 Immediately after **testing**, I threw myself into writing the **code** itself, which will be for the **ESP32**. I was thinking about how I would make the **buttons**, and I decided that the touch sensor would mainly be used to **control** the lights and the limit switch to control the **motor**.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc3NjEsInB1ciI6ImJsb2JfaWQifX0=--39bec0073ac8439c4650b9f3bb59939e74521ad1/image.png)
@@ -197,7 +190,7 @@ And things like that took me a long time, but I started **coding** and here is t
 
 ## 1/21/2026 9:36 PM - Code editing!!  
 
-_Time spent: 0.7h_  
+_Time spent: 0.5h_  
 
 I was still **finishing** things on the code and adding **functions** like when I hold down a button something **happens**, but in this part I mainly focused on the ring mods and its **modification**.
 At first I didn't know what mods **I would make**, but I decided on **colorful** ones and also different ones with effects, here is an **example**:
@@ -215,7 +208,7 @@ First I experimented with making a mod like every **button** and so far it looks
 
 ## 1/21/2026 9:53 PM - Website and code completion  
 
-_Time spent: 1.6h_  
+_Time spent: 1.5h_  
 
 I did some **research** and thought, if I could control the motor, I thought of a "**joystick**" like the one used to control a **printer**:
 ![Snímek obrazovky 2026-01-20 182356](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc3OTAsInB1ciI6ImJsb2JfaWQifX0=--c7454bca06e16fab441739236e4390f6c7d57023/Sn%C3%ADmek%20obrazovky%202026-01-20%20182356.png)
@@ -230,7 +223,7 @@ So I added it and continued with the last **edits** to the website and catching 
 
 ## 1/24/2026 9 PM - Making BOM  
 
-_Time spent: 0.6h_  
+_Time spent: 0.5h_  
 
 As always I have to create a **BOM**, so I started looking for all the parts on the **internet** and after about **half** **an hour** I had everything ready and ready. Then I put **everything** in spreadsheets and just edited... I **always** tried to find the cheapest things and to keep the **shipping** as low as possible!
 ![Snímek obrazovky 2026-01-21 180353](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTAyNTgsInB1ciI6ImJsb2JfaWQifX0=--4cd409ab4fb46166a440201618a9acac4838a644/Sn%C3%ADmek%20obrazovky%202026-01-21%20180353.png)
@@ -238,7 +231,7 @@ As always I have to create a **BOM**, so I started looking for all the parts on 
 
 ## 1/24/2026 10:05 PM - Scheme in Kicad  
 
-_Time spent: 1.2h_  
+_Time spent: 1.0h_  
 
 Right after making the **BOM**, I moved straight to **KiCad**, where I started working on the wiring. It took a while before I figured it **out**... I was gradually adding all the things and creating the **wiring**. Before I **noticed it**, I initially had **5 pins** on the **OLED**, but then I fixed it to **4** :)
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTAyNjgsInB1ciI6ImJsb2JfaWQifX0=--262ac56adbd2499eb74f56d93539c5aaa9597ab6/image.png)
@@ -247,7 +240,7 @@ Right after making the **BOM**, I moved straight to **KiCad**, where I started w
 
 ## 1/24/2026 10:44 PM - Finishing the scheme!  
 
-_Time spent: 1.3h_  
+_Time spent: 1.0h_  
 
 After a long time I had a finished **schematic**. It took me about +- **2.5** hours in total.
 I added the **wiring** of everything there and then I connected everything to the **ESP32**. It took me a **while** to put everything together, but I think it's **good** now!
@@ -256,7 +249,7 @@ I added the **wiring** of everything there and then I connected everything to th
 
 ## 1/25/2026 12 PM - Exporting files  
 
-_Time spent: 1.0h_  
+_Time spent: 0.7h_  
 
 Once I had everything ready, I moved on to creating a **GitHub** **repo** because I couldn't use it... I had to create all the **folders** and upload the files that were needed.
 It also took me quite a while to convert the **.STL** files to **.STEP**, but we did it! Next, we added a **bill of materials** to the **README.md**, where I included everything. Later, I also uploaded and exported all the **files**.
@@ -265,7 +258,7 @@ It also took me quite a while to convert the **.STL** files to **.STEP**, but we
 
 ## 1/25/2026 2 PM - Smart-Rotating-Platform  
 
-_Time spent: 1.7h_  
+_Time spent: 1.0h_  
 
 **SRP** is a smart system controlled by **ESP32**. It can control a platform that is illuminated by a neopixel ring, all using buttons and the **web**!
 
@@ -315,9 +308,11 @@ Here is a view of the top and bottom of the case:
 
 ![image](https://github.com/mavory/Smart-Rotating-Platform/blob/main/Photos/Sn%C3%ADmek%20obrazovky%202026-01-25%20113855.png?raw=true)
 
-## Wiring Diagram
+## Circuit and Wiring Diagram
 
 ![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTAyOTQsInB1ciI6ImJsb2JfaWQifX0=--a5f09185a44380b633d99bc31173a792134c591b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/image.png)
+
+![circuit_image (1)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY2NjgsInB1ciI6ImJsb2JfaWQifX0=--9c29b90eaf6372a04a33f62b600f6c296ba7bead/circuit_image%20(1).png)
 
 ## Bill of Materials (BOM)
 
