@@ -4,8 +4,8 @@
 #include <Adafruit_SSD1306.h>
 #include <Adafruit_NeoPixel.h>
 
-const char* ssid = "Vory"; //WiFi!
-const char* password = "Pazout2604"; //Password!!!
+const char* ssid = "jdudjdhhhsj"; //WiFi!
+const char* password = "jfjdjjdkd"; //Password!!!
 
 //Pinout
 #define RING_LEDS 24 //leds
