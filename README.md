@@ -41,6 +41,8 @@ Adafruit_NeoPixel.h
 
 ## 3D models
 
+https://www.tinkercad.com/things/j0OOxEkqtwP-platform?sharecode=f9O0KSYpNDVq5MAwKAr93FbKLgL8qyi1mZk7fG3vbRg
+
 Here is a view of the top and bottom of the case:
 
 ![image](https://github.com/mavory/Smart-Rotating-Platform/blob/main/Photos/Sn%C3%ADmek%20obrazovky%202026-01-25%20113950.png?raw=true)
